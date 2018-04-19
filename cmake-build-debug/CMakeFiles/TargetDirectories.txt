@@ -1,0 +1,3 @@
+C:/Users/Sasha/CLionProjects/Proga_Rubezhka/cmake-build-debug/CMakeFiles/Proga_Rubezhka.dir
+C:/Users/Sasha/CLionProjects/Proga_Rubezhka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sasha/CLionProjects/Proga_Rubezhka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
